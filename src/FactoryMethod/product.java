@@ -1,0 +1,8 @@
+package FactoryMethod;
+
+/**
+ * @author wengyinbing
+ * @data 2021/4/9 15:48
+ **/
+public interface product {
+}
